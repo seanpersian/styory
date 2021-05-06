@@ -1,1 +1,1 @@
-and this will be the 3rd commit that I'm going to add in my Git repository.
+And my last and final change that needs to be added. And this will be the 3rd commit that I'm going to add in my Git repository.
